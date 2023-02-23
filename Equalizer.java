@@ -9,8 +9,8 @@ package metodusok;
  * @author tumpi
  */
 public class Equalizer {
-    
+    public static void main(){
+}
 }
 
-public static void main(){
-}
+
